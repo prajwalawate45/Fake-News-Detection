@@ -1,4 +1,5 @@
 📰 Fake News Classification using RNN & LSTM
+
 This project tackles the challenge of detecting fake news using deep learning models, specifically Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM) architectures. It forms part of an academic assignment (A3_48) and emphasizes the use of sequential models for natural language processing (NLP).
 
 📚 Project Overview
